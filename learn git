@@ -1,0 +1,15 @@
+git config --global user.email "rrock7441@gmail.com"
+git config --global user.name "rrock-user-user"
+
+learn git part -1 :
+
+1)git init
+2)git add -A
+3)git status
+4)git commit -m "index.html added"
+5)git remote add origin master repoName
+6)git push origin master
+7)git clone repoName
+8)git pull origin master
+
+
